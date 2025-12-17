@@ -1,0 +1,117 @@
+theo
+Free
+
+Snoopy-Rank
+
+All ok
+
+
+Upgrade
+
+Dashboard
+Branches
+Integrations
+Settings
+
+production
+
+production
+Overview
+Monitoring
+SQL Editor
+Tables
+Backup & Restore
+Data Masking
+Beta
+Data API
+Auth
+Feedback
+Collapse menu
+Project dashboard
+
+Connect
+Share
+Get started with your new database
+Dismiss
+Connect to your database
+Get connection details your app needs to connect to your database
+
+Connect
+Import your data
+Automatically import your data directly into your Neon database
+
+Import data
+Connect from your IDE
+Use the Neon Local connect IDE extension to connect to your database.
+Get extension
+Integrate Neon with your AI tools
+Connect to MCP clients like Cursor, Claude Desktop, Cline, Zed, and Windsurf.
+Install MCP Server
+View database contents
+Manage your database and view table contents with the Tables page
+Go to Tables page
+Get sample data
+Easily test out your Neon database with Neon prepared datasets
+Get data
+
+Branches
+2 / 10
+Compute
+0 / 100
+CU-hrs
+Storage
+0 / 0.5
+GB
+Network transfer
+0 / 5
+GB
+Usage since Dec 17, 2025. Metrics may be delayed by an hour and are not updated for inactive projects. Learn more.
+Monitoring
+View all metrics
+Branch
+production
+Default
+Compute
+Primary
+Active
+
+Refresh
+There is no data to display at the moment.
+2 Branches
+View all
+Name
+Primary compute
+Created by
+production
+Default
+.25 ↔ 2 CU
+Active
+development
+.25 ↔ 1 CU
+Active
+Preview Workflow
+You don't have any preview branches yet. Improve your workflow by adding database branching to your development previews.
+
+
+Install an integration
+Neon Auth
+Manage
+Branch
+
+production
+
+production
+Manage your app's users with Neon
+Embed ready-made auth UI components into your app in minutes. User data lives directly in your Neon database, no syncing required. Built on Better Auth.
+
+Enable Neon Auth
+Learn more
+Project settings
+Manage
+Region	
+AWS US East 1 (N. Virginia)
+Default compute size	.25 ↔ 2 CU
+History retention	6 hours
+Postgres version
+17
+To extend the compute size limit, upgrade your plan
